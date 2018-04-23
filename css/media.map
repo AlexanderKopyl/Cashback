@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../sass/media.css",
+	"sources": [
+		"../sass/media.sass"
+	],
+	"sourcesContent": [
+		"/*==========  Desktop First  ==========*/\n\n/* Large Devices, Wide Screens */\n@media only screen and (max-width: 992px) {\n  #ovl {\n    .form-for-partners {\n      input {\n        width: 100%; } } } }\n/**/\n\n\n/* Medium Devices, Desktops */\n\n/**/\n\n\n/* Small Devices, Tablets */\n@media only screen and (max-width: 768px) {\n  .main-section {\n    height: calc(100vh + 140px); }\n  #box {\n    footer {\n      text-align: center !important; } } }\n/**/\n\n\n/* Extra Small Devices, Phones */\n@media only screen and (max-width: 500px) {\n  .main-section {\n    height: calc(100vh + 140px);\n    .main-section__form input {\n      width: 100%; } } }\n/**/\n//@media only screen and (max-width: 480px)\n\n/* Custom, iPhone Retina */\n@media only screen and (max-width: 320px) {\n  .main-section {\n    #box {\n      form {\n        width: 300px;\n        input {\n          width: 100%; } } } } }\n/**/\n\n\n/*==========  Mobile First  ==========*/\n\n/* Custom, iPhone Retina */\n/**/\n\n\n/* Extra Small Devices, Phones */\n/**/\n\n\n/* Small Devices, Tablets */\n/**/\n\n\n"
+	],
+	"mappings": "AAAA,yCAAyC;AAEzC,iCAAiC;AACjC,MAAM,MAAD,MAAM,MAAM,SAAS,EAAE,KAAK;;EAC/B,AAEI,IAFA,CACF,kBAAkB,CAChB,KAAK,CAAC;IACJ,KAAK,EAAE,IAAK;GAAG;;;AACvB,IAAI;AAGJ,8BAA8B;AAE9B,IAAI;AAGJ,4BAA4B;AAC5B,MAAM,MAAD,MAAM,MAAM,SAAS,EAAE,KAAK;;EAC/B,AAAA,aAAa,CAAC;IACZ,MAAM,EAAE,mBAAI;GAAkB;;EAChC,AACE,IADE,CACF,MAAM,CAAC;IACL,UAAU,EAAE,iBAAkB;GAAG;;;AACvC,IAAI;AAGJ,iCAAiC;AACjC,MAAM,MAAD,MAAM,MAAM,SAAS,EAAE,KAAK;;EAC/B,AAAA,aAAa,CAAC;IACZ,MAAM,EAAE,mBAAI;GAEO;;EAHrB,AAEsB,aAFT,CAEX,mBAAmB,CAAC,KAAK,CAAC;IACxB,KAAK,EAAE,IAAK;GAAG;;;AACrB,IAAI;AAGJ,2BAA2B;AAC3B,MAAM,MAAD,MAAM,MAAM,SAAS,EAAE,KAAK;;EAC/B,AAEI,aAFS,CACX,IAAI,CACF,IAAI,CAAC;IACH,KAAK,EAAE,KAAM;GAEM;;EALzB,AAIM,aAJO,CACX,IAAI,CACF,IAAI,CAEF,KAAK,CAAC;IACJ,KAAK,EAAE,IAAK;GAAG;;;AACzB,IAAI;AAGJ,wCAAwC;AAExC,2BAA2B;AAC3B,IAAI;AAGJ,iCAAiC;AACjC,IAAI;AAGJ,4BAA4B;AAC5B,IAAI",
+	"names": []
+}

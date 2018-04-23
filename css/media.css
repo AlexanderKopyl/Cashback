@@ -1,0 +1,60 @@
+/*==========  Desktop First  ==========*/
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 992px) {
+  /* line 7, D:/Pingendo/cashBack/sass/media.sass */
+  #ovl .form-for-partners input {
+    width: 100%;
+  }
+}
+
+/**/
+/* Medium Devices, Desktops */
+/**/
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+  /* line 19, D:/Pingendo/cashBack/sass/media.sass */
+  .main-section {
+    height: calc(100vh + 140px);
+  }
+  /* line 22, D:/Pingendo/cashBack/sass/media.sass */
+  #box footer {
+    text-align: center !important;
+  }
+}
+
+/**/
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 500px) {
+  /* line 29, D:/Pingendo/cashBack/sass/media.sass */
+  .main-section {
+    height: calc(100vh + 140px);
+  }
+  /* line 31, D:/Pingendo/cashBack/sass/media.sass */
+  .main-section .main-section__form input {
+    width: 100%;
+  }
+}
+
+/**/
+/* Custom, iPhone Retina */
+@media only screen and (max-width: 320px) {
+  /* line 40, D:/Pingendo/cashBack/sass/media.sass */
+  .main-section #box form {
+    width: 300px;
+  }
+  /* line 42, D:/Pingendo/cashBack/sass/media.sass */
+  .main-section #box form input {
+    width: 100%;
+  }
+}
+
+/**/
+/*==========  Mobile First  ==========*/
+/* Custom, iPhone Retina */
+/**/
+/* Extra Small Devices, Phones */
+/**/
+/* Small Devices, Tablets */
+/**/
+
+/*# sourceMappingURL=../css/media.map */

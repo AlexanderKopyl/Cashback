@@ -1,0 +1,62 @@
+@font-face {
+    font-family: "georgia";
+    src: url("../fonts/georgia.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'fontf0bf606d76cfebc5fb930fff83923231';
+    src:    url('https://nomail.com.ua/files/eot/f0bf606d76cfebc5fb930fff83923231.eot?#iefix') format('embedded-opentype'),
+    url('https://nomail.com.ua/files/woff/f0bf606d76cfebc5fb930fff83923231.woff') format('woff'),
+    url('https://nomail.com.ua/files/woff2/f0bf606d76cfebc5fb930fff83923231.woff2') format('woff2');
+}
+
+@font-face { font-family: 'MyriadPro-BoldCond';  src: local('MyriadPro-BoldCond'), url('https://nomail.com.ua/files/woff/f0bf606d76cfebc5fb930fff83923231.woff') format('woff'); }
+
+
+@font-face {
+    font-family: 'fonte2a5e608ba42366402cbf775c06f3f15';
+    src:    url('https://nomail.com.ua/files/eot/e2a5e608ba42366402cbf775c06f3f15.eot?#iefix') format('embedded-opentype'),
+    url('https://nomail.com.ua/files/woff/e2a5e608ba42366402cbf775c06f3f15.woff') format('woff'),
+    url('https://nomail.com.ua/files/woff2/e2a5e608ba42366402cbf775c06f3f15.woff2') format('woff2');
+}
+
+@font-face { font-family: 'MyriadPro-Cond';  src: local('MyriadPro-Cond'), url('https://nomail.com.ua/files/woff/e2a5e608ba42366402cbf775c06f3f15.woff') format('woff'); }
+@font-face {
+    font-family: "MyriadPro-BoldIt.otf";
+    src: url("../fonts/MyriadPro-BoldIt.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "MyriadPro-CondIt.otf";
+    src: url("../fonts/MyriadPro-CondIt.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "MyriadPro-It.otf";
+    src: url("../fonts/MyriadPro-CondIt.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "MyriadPro-Regular.otf";
+    src: url("../fonts/MyriadPro-Regular.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "MyriadPro-Semibold.otf";
+    src: url("../fonts/MyriadPro-Semibold.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "MyriadPro-SemiboldIt.otf";
+    src: url("../fonts/MyriadPro-SemiboldIt.otf");
+    font-style: normal;
+    font-weight: normal;
+}
